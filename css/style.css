@@ -174,3 +174,30 @@ main{
   margin: 50px 0 113px 0;
   text-align: center;
 }
+.contact{
+  display: flex;
+  gap: 117px;
+  background: #FFF8F3;
+  padding: 130px 230px;
+
+}
+.footer-title{
+  font-weight: 700;
+  font-size: 35px;
+  margin-bottom: 25px;
+  color: #181818;
+}
+.footer-description{
+  font-weight: 400;
+  font-size: 16px;
+  margin-bottom: 30px;
+}
+.left a{
+  margin-right: 24px;
+}
+input[type="text"],input[type="email"],textarea{
+  width: 100%;
+  border: none;
+  margin-bottom: 24px;
+  padding: 18px 30px;
+}
